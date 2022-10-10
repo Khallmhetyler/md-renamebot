@@ -18,10 +18,10 @@ async def start(bot, message):
              [[
                InlineKeyboardButton("♦️ Help", callback_data = "help")
              ],[
-               InlineKeyboardButton('📢 Update Channel', url='https://t.me/venombotupdates'),
-               InlineKeyboardButton('♻️ Suppot Group', url='https://t.me/venombotsupport')
+               InlineKeyboardButton('📢 Update Channel', url='https://t.me/HackedApkFiles02'),
+               InlineKeyboardButton('♻️ Suppot Group', url='https://t.me/+_ajWzaQxwMU3MzVk')
              ],[
-                InlineKeyboardButton('📃 Source code', url='https://github.com/Mdbotz/md-renamebot')
+                InlineKeyboardButton('📃 Source code', url='https://t.me/Manlikerex')
              ]]
    ))
                             
@@ -65,10 +65,10 @@ async def cb_handler(client: Client , query: CallbackQuery):
              [[
                InlineKeyboardButton("♦️ Help", callback_data = "help")
              ],[
-               InlineKeyboardButton('📢 Update Channel', url='https://t.me/Md_bOTs'),
-               InlineKeyboardButton('♻️ Suppot Group', url='https://t.me/Md_bOTs')
+               InlineKeyboardButton('📢 Update Channel', url='https://t.me/HackedApkFiles02'),
+               InlineKeyboardButton('♻️ Suppot Group', url='https://t.me/+_ajWzaQxwMU3MzVk')
              ],[
-                InlineKeyboardButton('📃 Source code', url='https://github.com/hockbhmv/FileRenameBot')
+                InlineKeyboardButton('📃 Source code', url='https://t.me/Manlikerex')
              ]]
         ))
         
